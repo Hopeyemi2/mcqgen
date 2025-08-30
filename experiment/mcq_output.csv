@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is machine learning (ML) mainly concerned with?,a: Developing statistical algorithms that learn from data and generalise to unseen data | b: Writing explicit instructions for every possible task | c: Creating only rule-based expert systems | d: Simulating human emotions and consciousness,Developing statistical algorithms that learn from data and generalise to unseen data
+Advances in which subfield have enabled neural networks to surpass many previous ML approaches in performance?,a: Deep learning | b: Linear regression | c: Symbolic AI | d: Database indexing,Deep learning
+What is the application of ML to business problems called?,a: Predictive analytics | b: Exploratory data analysis | c: Operations research | d: Data warehousing,Predictive analytics
+Which areas form the foundations of machine learning?,a: Statistics and mathematical optimisation (mathematical programming) | b: Biology and chemistry | c: Art and literature | d: Network engineering and cybersecurity,Statistics and mathematical optimisation (mathematical programming)
+"From a theoretical viewpoint, which framework is used to describe machine learning?",a: Probably approximately correct (PAC) learning | b: Turing completeness | c: Game theory | d: Thermodynamics,Probably approximately correct (PAC) learning
